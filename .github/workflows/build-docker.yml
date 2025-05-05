@@ -13,7 +13,7 @@ on:
         type: string
 
 env:
-  GHCR_REPO: ghcr.io/defguard/defguard
+  GHCR_REPO: ghcr.io/dsorm/defguard
 
 jobs:
   build-docker:
